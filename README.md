@@ -49,8 +49,5 @@ Launching a vital initiative, this project connects users to dedicated helplines
 
 **Contributors**
 
+Ayush Singh
 Neze Papreja
-
-Anvaya Solanki
-
-Sanya Garg
